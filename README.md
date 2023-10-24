@@ -1,2 +1,1 @@
-# I'm songkie.
-theme: minima
+theme:Architect
